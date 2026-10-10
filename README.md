@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @FarnazBabaloo
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farnaz.babaloo@gmail.com
 
 <!---
